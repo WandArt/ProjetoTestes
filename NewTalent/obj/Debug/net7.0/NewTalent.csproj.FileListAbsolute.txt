@@ -1,0 +1,14 @@
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/bin/Debug/net7.0/NewTalent
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/bin/Debug/net7.0/NewTalent.deps.json
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/bin/Debug/net7.0/NewTalent.runtimeconfig.json
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/bin/Debug/net7.0/NewTalent.dll
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/bin/Debug/net7.0/NewTalent.pdb
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.GeneratedMSBuildEditorConfig.editorconfig
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.AssemblyInfoInputs.cache
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.AssemblyInfo.cs
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.csproj.CoreCompileInputs.cache
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.dll
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/refint/NewTalent.dll
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.pdb
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/NewTalent.genruntimeconfig.cache
+/home/wanderson/Desenvolvimento-pessoal/Linguagens/C#/Testes e TDD/NewTalent/obj/Debug/net7.0/ref/NewTalent.dll
